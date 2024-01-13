@@ -33,7 +33,10 @@ export default function Contacts() {
 
         <div className="contacts-info">
           <div className="contacts-info-input">
-            <h1>Contact Us</h1>
+            <h1>Talk to our robotics team!</h1>
+            <p>Learn about how we'll represent your company</p>
+            <p>Watch our team in action and how we build and prototype our robots</p>
+            <h3>Be one of our awesome supporters!</h3>
 
             <Label type="nowrap" header="Name:" id={nameRef} />
             <Label type="nowrap" header="Email:" id={emailRef} />
